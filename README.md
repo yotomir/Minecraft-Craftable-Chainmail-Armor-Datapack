@@ -1,1 +1,1 @@
-# Craftable Chainmail Armor
+# Craftable Chainmail Armor for Minecraft (Datapack)
