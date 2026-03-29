@@ -1,1 +1,1 @@
-# Minecraft-Craftable-Chainmail-Armor
+# Craftable Chainmail Armor
